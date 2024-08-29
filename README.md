@@ -21,7 +21,7 @@ This project is a simple command-line tool for encryption and decryption using t
 
 1. Clone the repository to your local machine:
   ```bash
-        git clone https://github.com/dzt/Caeser-cipher.git
+        git clone https://github.com/DZ-T/Caeser-cipher.git
   ```
 
 2. Navigate to the project directory:
